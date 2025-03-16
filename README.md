@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jainil Desai</h1>
 <h3 align="center">An AIML Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdesai05" alt="jdesai05" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://jainildesai-portfolio.vercel.app/](https://jainildesai-portfolio.vercel.app/)
