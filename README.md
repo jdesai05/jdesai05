@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://jainildesai-portfolio.vercel.app/](https://jainildesai-portfolio.vercel.app/)
-
 - 💬 Ask me about **Python and Machine Learning**
 
 - 📫 How to reach me **jainildesai05@gmail.com**
